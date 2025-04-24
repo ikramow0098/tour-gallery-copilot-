@@ -3,28 +3,28 @@
     "id": "rec6d6T3q5EBIdCfD",
     "name": "Best of Paris in 7 Days Tour",
     "info": "Paris is synonymous with the finest things that culture can offer — in art, fashion, food, literature, and ideas. On this tour, your Paris-savvy guide will immerse you in the very best of the City of Light.",
-    "image": "https://dl.airtable.com/.attachments/6b7b6b8f257a219d167c6c3e5c2742d3/38f2c31a/paris.jpeg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
     "price": "1,995"
   },
   {
     "id": "recIwxrvU9HfJR3B4",
     "name": "Best of Ireland in 14 Days Tour",
     "info": "Experience the Emerald Isle to the fullest, from dramatic coastlines and rolling countryside to bustling cities and ancient ruins. Our tour takes you deep into the heart of Ireland.",
-    "image": "https://dl.airtable.com/.attachments/6c4b681bb279e2036b623bfa9d421e11/6184b61d/ireland.jpeg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Giant%27s_Causeway_-_Northern_Ireland_-_geograph.org.uk_-_496046.jpg",
     "price": "3,895"
   },
   {
     "id": "recJLWcHScdUtI3ny",
     "name": "Best of Salzburg & Vienna in 8 Days Tour",
     "info": "This tour gives you a deep dive into Austria’s cultural heritage, including time in classical music meccas Salzburg and Vienna, along with charming villages in the Austrian Alps.",
-    "image": "https://dl.airtable.com/.attachments/732924e8549dc396d52a4297c30717f7/1162e692/austria.jpeg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Salzburg_von_M%C3%B6nchsberg_2013-05.jpg",
     "price": "2,695"
   },
   {
     "id": "recK2AOoVhIHPLUwn",
     "name": "Best of Rome in 7 Days Tour",
     "info": "Discover the heart of the Roman Empire — from the Colosseum to the Vatican, your expert guide will bring Rome’s glorious history and art to life.",
-    "image": "https://dl.airtable.com/.attachments/821422a4e4204bc4b79f84dcbb69fc94/409de2fc/rome.jpeg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
     "price": "2,095"
   }
 ]
