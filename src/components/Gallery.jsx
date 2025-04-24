@@ -1,5 +1,7 @@
 import TourCard from './TourCard';
 
+// Prompt: Create a gallery component that maps over tours and renders TourCard for each
+
 function Gallery({ tours, setTours }) {
   const removeTour = (id) => {
     setTours(tours.filter(tour => tour.id !== id));

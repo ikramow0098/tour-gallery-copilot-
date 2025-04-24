@@ -3,6 +3,7 @@ import Gallery from './components/Gallery';
 
 const url = '/tours.json';
 
+
 function App() {
   const [tours, setTours] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -21,6 +22,7 @@ function App() {
     }
   };
 
+  // Prompt: Fetch tours from local JSON, handle loading and error state, allow refreshing
   useEffect(() => {
     fetchTours();
   }, []);

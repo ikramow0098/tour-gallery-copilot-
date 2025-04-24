@@ -1,3 +1,5 @@
+// Prompt: Create a card component to display tour name, image, price, and remove button
+
 function TourCard({ id, name, info, image, price, onRemove }) {
   return (
     <article className="card">
